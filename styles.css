@@ -186,6 +186,10 @@ a {
   .hero__subtitle {
     font-size: 1rem;
   }
+  
+  .hero__image {
+      margin-top: -20px;
+  }
 }
 
 @media screen and (min-width: 501px) {
@@ -197,6 +201,9 @@ a {
   .hero__subtitle {
     font-size: 1.3rem;
   }
+  .hero__image {
+      margin-top: -20px;
+  }
 
   @media screen and (min-width: 768px) {
     .hero__title {
@@ -206,6 +213,8 @@ a {
     .hero__subtitle {
       font-size: 1.6rem;
     }
+    .hero__image {
+      margin-top: -20px;
   }
 }
 
