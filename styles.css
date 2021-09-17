@@ -28,6 +28,10 @@ body {
   overflow: hidden;
 }
 
+img {
+  margin-top: -70px;
+}
+
 /* Hero */
 .hero-container {
   display: flex;
@@ -103,7 +107,7 @@ img {
 
 .hero__image::before {
   position: absolute;
-  top: 50%;
+  top: 47%;
   left: 50%;
   content: "";
   border: 10px solid var(--color-rectangle);
