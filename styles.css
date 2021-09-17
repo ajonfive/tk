@@ -107,7 +107,7 @@ img {
 
 .hero__image::before {
   position: absolute;
-  top: 47%;
+  top: 48%;
   left: 50%;
   content: "";
   border: 10px solid var(--color-rectangle);
